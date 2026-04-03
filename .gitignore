@@ -1,0 +1,4 @@
+# Dependencies
+node_modules/
+
+# Build outputs (keep analytics.bundle.js as it's needed for deployment)
